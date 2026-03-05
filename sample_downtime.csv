@@ -1,0 +1,5 @@
+machine_id,start_time,end_time,reason
+M1,09:00,09:30,Equipment Cleaning
+M2,10:30,11:00,Quality Calibration
+M3,13:00,13:45,Sterilization
+M4,14:30,15:00,Maintenance
